@@ -57,7 +57,7 @@ Each row represents one stride.
 
 ## Example Output
 
-![Poincare Plot](output/example_poincare_plot.png)
+![Poincare Plot](output/example_poincare.png)
 
 ## License
 
